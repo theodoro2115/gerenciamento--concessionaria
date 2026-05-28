@@ -31,7 +31,7 @@ Gerenciador de Dependências: Maven
 Frontend: HTML5, CSS3 e JavaScript (Vanilla)
 
 📁 Estrutura do Projeto
-
+--------------------------
 O projeto segue uma estrutura simplificada para facilitar a manutenção:
 
 •
@@ -47,12 +47,12 @@ src/main/java/com/vip/exception: Tratamento de erros customizados.
 src/main/resources/static: Arquivos da interface web.
 
 📊 Diagrama de Classes
-
+------------------------
 O diagrama de classes UML está disponível na raiz do projeto como diagrama_classes.png, ilustrando a hierarquia de herança entre os veículos e os tipos de clientes.
 
 
 👥 Integrantes do Grupo
-
+-------------------------
 •
 [GABRIEL THEODORO FRANCISCO]
 
