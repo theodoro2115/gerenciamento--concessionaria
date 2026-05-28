@@ -54,13 +54,13 @@ O diagrama de classes UML está disponível na raiz do projeto como diagrama_cla
 👥 Integrantes do Grupo
 -------------------------
 •
-[GABRIEL THEODORO FRANCISCO]
+GABRIEL THEODORO FRANCISCO
 
 •
-[FABRICIO ARAGÃO DE SOUZA JUNIOR]
+FABRICIO ARAGÃO DE SOUZA JUNIOR
 
 •
-[GUSTAVO MORAIS MORIYAMA]
+GUSTAVO MORAIS MORIYAMA
 
 •
 [MAYCON ALVES DA SILVA]
