@@ -1,9 +1,9 @@
 *Concessionária VIP*
-
+--------------------
 Sistema de gerenciamento para uma concessionária de veículos, desenvolvido em Java com o framework Spring Boot. O projeto permite o controle de estoque de diferentes tipos de veículos e a gestão de clientes (Pessoa Física e Jurídica).
 
 🚀 Funcionalidades
-
+--------------------
 •
 Gestão de Veículos: Cadastro e listagem de Carros, Motos e Utilitários.
 
@@ -17,7 +17,7 @@ Vendas: Registro de transações vinculando veículos a compradores.
 Interface Web: Dashboard simples para visualização e interação com o sistema.
 
 🛠️ Tecnologias Utilizadas
-
+-------------------------
 •
 Linguagem: Java 11
 
